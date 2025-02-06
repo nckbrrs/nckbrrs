@@ -36,7 +36,7 @@ My brother's personal landing page. He recently earned his PhD in Bioengineering
 
 ***
 
-## [Connect Four](https://www.nckbrrs-connect-four.vercel.app)
+## [Connect Four](https://nckbrrs-connect-four.vercel.app)
 
 ![connect-four](https://github.com/user-attachments/assets/e6de5596-9973-4574-a886-1e38b3807e0c)
 

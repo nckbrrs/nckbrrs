@@ -33,11 +33,3 @@ A brand new landing page, portfolio, and contact page for a commercial painting 
 ![ryan-barrs-dot-com](https://github.com/user-attachments/assets/137c6b0b-de2f-43c1-a25e-c93c901c980b)
 
 My brother's personal landing page. He recently earned his PhD in Bioengineering from Clemson University via MUSC in Charleson, SC. He's a genius.
-
-***
-
-## [Connect Four](https://nckbrrs-connect-four.vercel.app)
-
-![connect-four](https://github.com/user-attachments/assets/e6de5596-9973-4574-a886-1e38b3807e0c)
-
-You know it. You love it. Simple as it gets. Just for fun.

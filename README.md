@@ -20,11 +20,11 @@ Web app that I built so my wife and I could gather contact info and RSVPs from a
 
 ***
 
-## [Production Painting & Decorating, Inc](https://production-painting-decorating-inc.vercel.app/)
+## [Production Painting & Decorating, Inc](https://www.productionpaintingonline.com)
 
-![PPD Inc](https://github.com/user-attachments/assets/74b8c515-b512-4064-b944-540a86cc6daf)
+<img width="3012" height="1649" alt="tempImagewzXOec-modified" src="https://github.com/user-attachments/assets/56cddcbd-6014-4fc4-bfc1-92bab850f3a9" />
 
-A brand new landing page, portfolio, and contact page for a commercial painting company in Raleigh, NC. Note: this is a work in progress, and is still in a very early stage. Stay tuned! 
+A brand new landing page, portfolio, contact page, and general inquiry and career forms for a commercial painting company in Raleigh, NC.
 
 ***
 
